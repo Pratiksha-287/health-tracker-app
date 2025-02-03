@@ -1,5 +1,5 @@
 # 🏋️‍♂️ Health Challenge Tracker
-![Main Page](photo.jpg)
+![Main Page](photo.png)
 
 ## 📌 Overview
 
